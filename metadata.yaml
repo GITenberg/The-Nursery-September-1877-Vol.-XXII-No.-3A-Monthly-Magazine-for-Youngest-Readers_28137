@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28137#The-Nursery-September-1877-Vol.-XXII-No.-3A-Monthly-Magazine-for-Youngest-Readers
 gutenberg_bookshelf: The Nursery
 gutenberg_issued: '2009-02-20'
 gutenberg_type: Text
